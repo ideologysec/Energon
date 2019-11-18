@@ -4,6 +4,7 @@
 [submodule "Ansible/roles/ubuntu1604-cis"]
 	path = Ansible/roles/ubuntu1604-cis
 	url = git@github.com:florianutz/Ubuntu1604-CIS.git
+	branch = master
 [submodule "Ansible/roles/ubuntu1804-cis"]
 	path = Ansible/roles/ubuntu1804-cis
 	url = git@github.com:florianutz/Ubuntu1804-CIS.git
@@ -15,7 +16,7 @@
 	url = git@github.com:dev-sec/ansible-ssh-hardening.git
 [submodule "Ansible/roles/yum-cron"]
 	path = Ansible/roles/yum-cron
-	url = https://github.com/samdoran/ansible-role-yum-cron
+	url = git@github.com:samdoran/ansible-role-yum-cron.git
 [submodule "Ansible/roles/rhel7-stig"]
 	path = Ansible/roles/rhel7-stig
-	url = https://github.com/MindPointGroup/RHEL7-STIG
+	url = git@github.com:MindPointGroup/RHEL7-STIG.git
