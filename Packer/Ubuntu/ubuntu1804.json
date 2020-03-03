@@ -42,7 +42,7 @@
       "floppy_files": [
         "{{template_dir}}/floppy18/preseed.cfg"
       ],
-      
+
       "boot_wait": "5s",
       "boot_command": [
         "<enter><wait><f6><wait><esc><wait>",

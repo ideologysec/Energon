@@ -1,6 +1,6 @@
 # requirements.in
 ansible-lint>=3.4.20
-ansible>=2.6.18
+ansible>=2.8
 cryptography>=2.7
 jinja2>=2.10.1
 paramiko>=2.4.2
