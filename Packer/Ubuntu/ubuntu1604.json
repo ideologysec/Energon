@@ -21,7 +21,7 @@
       "ssh_wait_timeout": "5m",
       "shutdown_command": "sudo -S shutdown -P now",
       "headless": false,
-      
+
       "version": 14,
       "guest_os_type": "ubuntu-64",
       "cpus":1,
