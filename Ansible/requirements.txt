@@ -34,7 +34,7 @@ markupsafe==1.1.1
     #   jinja2
 packaging==21.0
     # via ansible-core
-paramiko==2.6.0
+paramiko==2.10.1
     # via -r requirements.in
 pycparser==2.18
     # via cffi
@@ -54,4 +54,5 @@ six==1.11.0
     #   ansible-lint
     #   bcrypt
     #   cryptography
+    #   paramiko
     #   pynacl
