@@ -19,7 +19,7 @@ cffi==1.14.4
     #   bcrypt
     #   cryptography
     #   pynacl
-cryptography==3.3.2
+cryptography==39.0.1
     # via
     #   -r requirements.in
     #   ansible-core
@@ -53,6 +53,5 @@ six==1.11.0
     # via
     #   ansible-lint
     #   bcrypt
-    #   cryptography
     #   paramiko
     #   pynacl
