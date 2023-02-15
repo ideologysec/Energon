@@ -4,11 +4,11 @@
 #
 #    pip-compile requirements.in
 #
-ansible==4.2.0
+ansible==7.0.0
     # via
     #   -r requirements.in
     #   ansible-lint
-ansible-core==2.11.5
+ansible-core==2.14.1
     # via ansible
 ansible-lint==3.4.23
     # via -r requirements.in
@@ -24,11 +24,11 @@ cryptography==3.3.2
     #   -r requirements.in
     #   ansible-core
     #   paramiko
-jinja2==2.11.3
+jinja2==3.1.2
     # via
     #   -r requirements.in
     #   ansible-core
-markupsafe==1.1.1
+markupsafe==2.1.2
     # via
     #   -r requirements.in
     #   jinja2
